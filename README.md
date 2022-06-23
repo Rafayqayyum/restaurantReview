@@ -4,4 +4,5 @@
 * Jupyter notebook ( Install using pip install jupyter)
 * Nltk (pip install nltk)
 * Scikit-learn (pip install scikit-learn)
-* If you have anaconda, all of these will be installed with it
+
+If you have anaconda, all of these will be installed with it
